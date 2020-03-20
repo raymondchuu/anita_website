@@ -1,26 +1,13 @@
 import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
+import Carousel from './Carousel.js';
 import image1 from '../Media/PastelBank/pastelbank_frontpage.png';
 import image2 from '../Media/PastelBank/research_image.png';
 import image3 from '../Media/PastelBank/research_percentage.png';
 import image4 from '../Media/PastelBank/research_findings_image.png';
 import image5 from '../Media/PastelBank/image5.png';
-import image6 from '../Media/PastelBank/image6.png';
 import image7 from '../Media/PastelBank/image7.png';
 import image8 from '../Media/PastelBank/image8.png';
-import image9 from '../Media/PastelBank/image9.png';
-import image10 from '../Media/PastelBank/image10.png';
-import image11 from '../Media/PastelBank/image11.png';
-import image12 from '../Media/PastelBank/image12.png';
-import image13 from '../Media/PastelBank/image13.png';
-import image14 from '../Media/PastelBank/image14.png';
-import image15 from '../Media/PastelBank/image15.png';
-import image16 from '../Media/PastelBank/image16.png';
-import image17 from '../Media/PastelBank/image17.png';
-import image18 from '../Media/PastelBank/image18.png';
-import image19 from '../Media/PastelBank/image19.png';
-import image20 from '../Media/PastelBank/image20.png';
-import image21 from '../Media/PastelBank/image21.png';
 import combined from '../Media/PastelBank/combinedPicture.png';
 import onboarding from '../Media/PastelBank/onboarding.png';
 import goals from '../Media/PastelBank/goals.png';
@@ -193,6 +180,7 @@ class PastelBank extends React.Component {
                 <br/>
                 <hr/>
                 <p>View Other Work</p>
+                <Carousel />
 
             </Container>
             </div>

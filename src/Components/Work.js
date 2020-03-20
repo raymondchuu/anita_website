@@ -38,7 +38,7 @@ class Work extends React.Component {
 
                     <Row>
                         <Col>
-                            <a class="float-center">
+                            <a href="https://medium.com/@anitango/making-saving-a-social-activity-f4c990ebb1c8" class="float-center" target="_blank">
                                 <img src={CaseStudy} width="1020px" fluid/>
                             </a>
                             <br />
