@@ -1,0 +1,14 @@
+h3 {
+    font-size: 24px;
+}
+
+.selfie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    font-size: 24px;
+}
