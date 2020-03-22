@@ -54,7 +54,7 @@ const NavItem = (props) => {
                         <NavItem path="/contact" name="Contact" />
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-                            <li><a href="mailto:anitango25@gmail.com"><img src={this.state.img1}  display="inline"
+                            <li><a href="mailto:anita@anitango.com"><img src={this.state.img1}  display="inline"
                                 onMouseEnter = {() => {
                                     this.setState({
                                         img1: emailHover

@@ -3,6 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import {  BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import '../Css/Work.css';
 import Header from './Header.js';
+import ScrollTop from './ScrollTop.js';
 
 import PastelBank from '../Media/Work/PastelBank.png';
 import CaseStudy from '../Media/Work/CaseStudy.png';
@@ -60,7 +61,6 @@ class Work extends React.Component {
                             <br/>
                         </Col>
                     </Row>
-                    <br/>
                 </Container>
             </div>
             </div>

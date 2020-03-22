@@ -11,7 +11,7 @@ class Contact extends React.Component {
                 <br/>
                 <center>
                     <p>Interested in knowing more about me?</p>
-                    <p>Send a message to <a href="mailto:anitango25@gmail.com" target="_top">anitango25@gmail.com</a></p>
+                    <p>Send a message to <a href="mailto:anita@anitango.com" target="_top">anita@anitango.com</a></p>
                     <br/>
                     <br/>
             
