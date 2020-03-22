@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../Media/Navigation//Poppins-Regular.ttf)
+}
+
 h3 {
     font-size: 24px;
 }
@@ -10,5 +15,11 @@ h3 {
 }
 
 p {
-    font-size: 24px;
+    font-family: Poppins;
+    font-size: 22px;
+}
+
+#subTitle {
+    font-size: 30px;
+    font-weight: bold;
 }

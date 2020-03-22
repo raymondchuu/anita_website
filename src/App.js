@@ -9,15 +9,14 @@ import PastelBank from './Components/PastelBank.js';
 import PizzaNova from './Components/PizzaNova.js';
 import Fincity from './Components/Fincity.js';
 import UIDesigns from './Components/UIDesigns.js';
-import Footer from './Components/Footer.js'
+import Footer from './Components/Footer.js';
 
 class App extends Component {
   render() {
     return (
       <Router>
-        <div className="container">
+        <div >
           <Navigation />
-          <hr />
             <Switch>
               <Route path="/about">
                 <About />
@@ -41,7 +40,7 @@ class App extends Component {
                 <Work />
               </Route>
             </Switch>
-            <Footer />
+            <Footer/>
         </div>
       </Router>
     );

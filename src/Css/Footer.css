@@ -1,4 +1,9 @@
-.foot {
-    float: right;   
-    height: 90px;
+#copyright {
+    @font-face {
+        font-family: Poppins;
+        src: url(../Media/Navigation//Poppins-Regular.ttf)
+    }
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: right;
 }

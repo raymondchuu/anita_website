@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../Media/Navigation//Poppins-Regular.ttf)
+}
+
+.head {
+    max-width: 1903px;
+    background-image: url(../Media/Work/Header.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 730px;
+    width: 100%;
+
+    text-align: center;
+}
+
+#headerName {
+    font-size: 40px;
+    font-family: Poppins;
+    color: white;
+}
+
+#headerBody {
+
+    font-size: 16px;
+    font-family: Poppins;
+    color: white;
+}

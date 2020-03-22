@@ -6,6 +6,7 @@ class Contact extends React.Component {
     render() {
         return (
             <div>
+                <hr/>
                 <img src={Image1} className="image" />
                 <br/>
                 <center>
