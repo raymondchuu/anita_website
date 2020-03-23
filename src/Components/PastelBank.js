@@ -66,7 +66,7 @@ class PastelBank extends React.Component {
                             <li>Prototyping</li>
                             <li>Moderated User Testing</li>
                         </ul>
-                        <Button variant="outline-primary" href="/contact">Prototype</Button>
+                        <Button variant="outline-primary" target="_blank" href="https://www.figma.com/proto/Bgx5srdBjXVDjJhBDw4c02/Sprint-2?node-id=20%3A51&viewport=391%2C527%2C0.14990286529064178&scaling=scale-down&fbclid=IwAR3XRMHhiowuhJUVgMQ-jTI3ujU-CHP-_WNqAoXkRqa7qLiLVi-kfGMWo1c">Prototype</Button>
                     </Col>
                 </Row>
 
