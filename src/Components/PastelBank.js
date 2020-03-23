@@ -114,6 +114,8 @@ class PastelBank extends React.Component {
                 <Row>
                     <Col xs={1}>
                         <img src={blueBlock} />
+                        <br/>
+                        <br/>
                     </Col>
                     <Col>
                         <p>Create a platform that simultaneously assists young adults with their debt while promoting savings and investments, so that young adults can enjoy their new income without feeling restrained.</p>
