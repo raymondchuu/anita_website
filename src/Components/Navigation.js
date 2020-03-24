@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '../Media/Navigation/Logo.png';
-//import '../Css/Navigation.css';
+import '../Css/Navigation.css';
 import emailHover from '../Media/Footer/Email.png';
 import beHover from '../Media/Footer/Be.png';
 import linkedinHover from '../Media/Footer/Linkedin.png';

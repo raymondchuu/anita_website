@@ -7,6 +7,9 @@
     font-size: 18px;
 }
 
+.scrolled {
+    position: fixed;
+}
 
 #name {
     font-size: 40px;
@@ -22,6 +25,4 @@
     padding-left: 2.5%;
     padding-right: 2.5%;
     font-family: Poppins;
-
 }
-
