@@ -14,9 +14,11 @@ import Footer from './Components/Footer.js';
 class App extends Component {
   render() {
     return (
+      <div>
       <Router>
+      <Navigation />
+
         <div >
-          <Navigation />
             <Switch>
               <Route path="/about">
                 <About />
@@ -43,6 +45,7 @@ class App extends Component {
             <Footer/>
         </div>
       </Router>
+      </div>
     );
   }
 }
