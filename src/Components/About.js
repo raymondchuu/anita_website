@@ -19,7 +19,7 @@ class About extends React.Component {
                 <br/>
                 <br/>
 
-                <img src={Image2} />
+                <img src={Image2} id="journey" />
                 
                 <br/>
                 <p id="subTitle">Background</p>

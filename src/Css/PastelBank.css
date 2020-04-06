@@ -31,6 +31,10 @@
 }
 .research {
     float: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 .goal-header {
@@ -44,4 +48,11 @@
 
 #otherWork {
     text-align: center;
+}
+
+.main-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }

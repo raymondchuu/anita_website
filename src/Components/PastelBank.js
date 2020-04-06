@@ -40,7 +40,7 @@ class PastelBank extends React.Component {
                     </Col>
                 </Row>
                 <Row>
-                    <img src={image1}/>
+                    <img src={image1} className="main-image"/>
                 </Row>
                 <br />
                 <Row>
@@ -97,8 +97,7 @@ class PastelBank extends React.Component {
                 <p id="subHeader2">Research Findings</p>
                 <p>With these ideas in mind, we did research independently about the struggles young adults face upon graduation. These were some of our findings:</p>
                 <br/>
-                <img src={blueBlock} />
-                <img src={image3} id="findings"/>
+                <img src={image3} className="main-image"/>
                 <br />
                 <br />
                 <p>Through synthesizing our research findings we created an experience map.</p>
@@ -130,7 +129,7 @@ class PastelBank extends React.Component {
                     <li>still like to splurge on other purchases.</li>
                     <li>feel that financial advisors are not helpful and prefer to be autonomous with their finances.</li>
                 </ul>
-                <Row>
+                <Row className="main-image">
                     <Col>
                         <img src={image5} />
                     </Col>
@@ -166,7 +165,7 @@ class PastelBank extends React.Component {
                 <p id="subHeader2">Marketing Desktop Site</p>
                 <p>We created a marketing ad on the Pastel Bank website to outline the key features of their new app.</p>
                 <div>
-                    <img src={combined} />
+                    <img src={combined} className="main-image"/>
                 </div>
                 <br/>
 
@@ -174,17 +173,17 @@ class PastelBank extends React.Component {
                 <p>While adhereing to project constraints, including a specific colour palette, we created this design.</p>
                 <br/>
                 <p>Onboarding</p>
-                <img src={onboarding} />
+                <img src={onboarding} className="main-image"/>
                 <br/>
                 <br/>
                 <br/>
                 <p>Goals</p>
-                <img src={goals} />
+                <img src={goals} className="main-image"/>
                 <br/>
                 <br/>
                 <br/>
                 <p>SmartSavings</p>
-                <img src={smartSaving} />
+                <img src={smartSaving} className="main-image"/>
                 <br/>
                 <br/>
                 <br/>

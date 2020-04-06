@@ -23,3 +23,10 @@ p {
     font-size: 30px;
     font-weight: bold;
 }
+
+#journey {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
